@@ -13,7 +13,9 @@ import { RouterLink } from '@angular/router';
           <li class="nav-item"><a class="nav-link" routerLink="/clients">Clients</a></li>
           <li class="nav-item"><a class="nav-link" routerLink="/credits">Crédits</a></li>
           <li class="nav-item"><a class="nav-link" routerLink="/repayments">Remboursements</a></li>
+          <li class="nav-item"><a class="nav-link" routerLink="/repayments/create">+ Nouveau remboursement</a></li>
         </ul>
+
       </div>
     </nav>
   `
